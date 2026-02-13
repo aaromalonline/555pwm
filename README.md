@@ -1,6 +1,6 @@
 
-### user guide  
-Open the repo cloned repo in vscode, open new terminal in vscode  
+### Basic Guide  
+Clone the repo and open the cloned repo in vscode, open new terminal in vscode  
 
 1. Create virtual env and installing dependencies
 ```
